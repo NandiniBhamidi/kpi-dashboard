@@ -64,7 +64,7 @@ Using the synthesized data, [I built a Tableau dashboard for visualization.](htt
 - Personnel Resources (how long will this take/when can this start)
 
 **Financial analysts**:
-- Cost of maintenance (daily, Iekly, monthly, quarterly, yearly)
+- Cost of maintenance (daily, weekly, monthly, quarterly, yearly)
 - Long Term financial impact (how much is going to be saved vs. cost of doing nothing)
 
 **Operational teams**:
